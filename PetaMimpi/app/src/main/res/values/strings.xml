@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Peta Mimpi</string>
+    <string name="title_activity_welcome">WelcomeActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_bottom_tab">BottomTabActivity</string>
+    <string name="title_activity_edit_profile_acitivity">EditProfileAcitivity</string>
+    <string name="title_activity_kepribadian">KepribadianActivity</string>
+    <string name="title_activity_quiz_kepribadian">QuizKepribadianActivity</string>
+    <string name="title_activity_minat">MinatActivity</string>
+    <string name="title_activity_quiz_minat">QuizMinatActivity</string>
+    <string name="title_activity_bakat">BakatActivity</string>
+    <string name="title_activity_quiz_bakat">QuizBakatActivity</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_chat_bot">ChatBotActivity</string>
+    <string name="title_activity_result_bakat">ResultBakatActivity</string>
+    <string name="title_activity_detail_result">DetailResultActivity</string>
+    <string name="title_activity_result_kepribadian">ResultKepribadianActivity</string>
+    <string name="title_activity_detail_result_kepribadian">DetailResultKepribadianActivity</string>
+    <string name="title_activity_result_minat">ResultMinatActivity</string>
+    <string name="title_activity_detail_result_minat">DetailResultMinatActivity</string>
+</resources>
